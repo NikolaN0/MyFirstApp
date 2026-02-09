@@ -18,7 +18,7 @@ public class Auto {
     }
 
     public int getCilindrata() {
-        return cilindrata;
+        return this.cilindrata;
     }
 
     public void setCilindrata(int cilindrata) {
